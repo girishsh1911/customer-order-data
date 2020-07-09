@@ -1,0 +1,9 @@
+Run on cmd
+
+1. git clone "copy the github clone link"
+
+2. cd customer-orders
+
+2. npm install //To install all the dependecies
+
+3. npm start

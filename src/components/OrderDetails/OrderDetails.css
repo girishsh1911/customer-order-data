@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.container table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.container th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.block{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: flex-end;
+}
